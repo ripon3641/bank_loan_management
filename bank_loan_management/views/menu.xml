@@ -2,7 +2,7 @@
 <odoo>
 
     <menuitem id="loan_management_root"
-              name="Loan Management"
+              name="Loan"
               web_icon="bank_loan_management,static/icon.png"
               sequence="0"/>
     <menuitem id="loan_management_master"
