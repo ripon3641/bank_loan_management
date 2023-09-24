@@ -7,29 +7,7 @@
     'author': 'Ripon Hossain',
     'sequence': -1000,
     'summary': 'Bank Loan Management',
-    'description':"""
-        <p>Manage and track bank loans with ease using the Bank Loan Management app.</p>
-        
-        <h2>Key Features:</h2>
-        <ul>
-            <li>Efficiently manage loan applications and approvals.</li>
-            <li>Track loan disbursements and repayments.</li>
-            <li>Generate loan statements and reports.</li>
-            <li>Automate interest calculations and payment reminders.</li>
-        </ul>
-        
-        <h2>Benefits:</h2>
-        <ul>
-            <li>Streamline the loan application process for customers.</li>
-            <li>Ensure accurate loan tracking and compliance.</li>
-            <li>Reduce administrative overhead and paperwork.</li>
-            <li>Gain insights with comprehensive loan analytics.</li>
-        </ul>
-        
-        <p>Experience the convenience of managing bank loans with our powerful Bank Loan Management app.</p>
-        
-        <p><strong>Get started today!</strong></p>
-    """,
+    'description': 'Bank Loan Management',
     'depends': ['mail', 'account'],
     'data': [
         'security/ir.model.access.csv',
